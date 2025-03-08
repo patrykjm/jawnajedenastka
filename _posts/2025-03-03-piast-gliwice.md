@@ -1,6 +1,10 @@
 ---
 layout: default
 title:  "Piast Gliwice"
+tags: 
+    - ekstraklasa
+    - klub miejski
+    - śląskie
 ---
 # Struktura Właścicielska Klubu Piast Gliwice: Analiza Udziałowców i Zarządzania
 
@@ -54,21 +58,23 @@ Zarządzanie klubem, poprzez Radę Nadzorczą i Zarząd, odzwierciedla wpływy g
 
 Ta wielowymiarowa struktura właścicielska, łącząca zaangażowanie samorządu, prywatnego biznesu i organizacji społecznej, stanowi interesujący przykład współczesnego modelu zarządzania klubem sportowym, który stara się równoważyć ambicje sportowe z realiami ekonomicznymi i oczekiwaniami społeczności lokalnej.
 
-Citations:
-[1] https://piast.gliwice.pl/2012/11/15/piast-s-a-ma-nowego-udzialowca/
-[2] https://infogliwice.pl/piast-gliwice-ma-nowego-udzialowca/
-[3] https://pl.wikipedia.org/wiki/Piast_Gliwice
-[4] http://www.90minut.pl/news/90/news901634-Miasto-wiekszosciowym-udzialowcem-Piasta-SA.html
-[5] https://piast-gliwice.eu/klub/struktura-organizacyjna
-[6] http://gliwice.eu/aktualnosci/miasto/zmiany-w-radzie-nadzorczej-piasta-gliwice
-[7] https://www.rmf24.pl/regiony/slaskie/news-nowy-prezes-piasta-gliwice-zmiany-w-klubie-sa-potrzebne,nId,7619968
-[8] https://piast-gliwice.eu/aktualnosci/z-klubu/lukasz-lewinski-nowym-prezesem-piasta
-[9] https://www.24gliwice.pl/wiadomosci/18-mln-zl-pozyczki-dla-piasta-gliwice-musimy-ratowac-klub-zebysmy-mogli-grac-w-ekstraklasie/
-[10] https://piast.gliwice.pl/2024/06/05/w-piascie-szykuja-sie-zmiany/
-[11] https://rejestr.io/krs/334402/gliwicki-klub-sportowy-piast
-[12] https://dziennikzachodni.pl/piast-gliwice-miasto-ominelo-kaluze-i-podwyzszy-stan-posiadania-klubowych-akcji/ar/c2p2-27089537
-[13] https://krs-pobierz.pl/gliwicki-klub-sportowy-piast-w-gliwicach-i15297
-[14] https://krs-pobierz.pl/gliwicki-klub-sportowy-piast-spolka-akcyjna-i132076
-[15] https://gol24.pl/piast-gliwice-w-przypadku-sprzedazy-klubu-miasto-zachowa-zlota-akcje/ar/c2-18647381
+### Stan na 03.03.2025!
+
+Cytaty:
+[1] (https://piast.gliwice.pl/2012/11/15/piast-s-a-ma-nowego-udzialowca/)
+[2] (https://infogliwice.pl/piast-gliwice-ma-nowego-udzialowca/)
+[3] (https://pl.wikipedia.org/wiki/Piast_Gliwice)
+[4] (http://www.90minut.pl/news/90/news901634-Miasto-wiekszosciowym-udzialowcem-Piasta-SA.html)
+[5] (https://piast-gliwice.eu/klub/struktura-organizacyjna)
+[6] (http://gliwice.eu/aktualnosci/miasto/zmiany-w-radzie-nadzorczej-piasta-gliwice)
+[7] (https://www.rmf24.pl/regiony/slaskie/news-nowy-prezes-piasta-gliwice-zmiany-w-klubie-sa-potrzebne,nId,7619968)
+[8] (https://piast-gliwice.eu/aktualnosci/z-klubu/lukasz-lewinski-nowym-prezesem-piasta)
+[9] (https://www.24gliwice.pl/wiadomosci/18-mln-zl-pozyczki-dla-piasta-gliwice-musimy-ratowac-klub-zebysmy-mogli-grac-w-ekstraklasie/)
+[10] (https://piast.gliwice.pl/2024/06/05/w-piascie-szykuja-sie-zmiany/)
+[11] (https://rejestr.io/krs/334402/gliwicki-klub-sportowy-piast)
+[12] (https://dziennikzachodni.pl/piast-gliwice-miasto-ominelo-kaluze-i-podwyzszy-stan-posiadania-klubowych-akcji/ar/c2p2-27089537)
+[13] (https://krs-pobierz.pl/gliwicki-klub-sportowy-piast-w-gliwicach-i15297)
+[14] (https://krs-pobierz.pl/gliwicki-klub-sportowy-piast-spolka-akcyjna-i132076)
+[15] (https://gol24.pl/piast-gliwice-w-przypadku-sprzedazy-klubu-miasto-zachowa-zlota-akcje/ar/c2-18647381)
 
 ---
