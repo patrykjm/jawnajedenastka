@@ -99,8 +99,6 @@ Warto zauważyć, że oprócz spółki akcyjnej Korona S.A., funkcjonuje równie
 ## Podsumowanie
 
 Korona Kielce S.A. przeszła w marcu 2025 roku znaczącą zmianę właścicielską - nowym właścicielem klubu został Łukasz Maciejczyk, który nabył 99% akcji za kwotę 108.000 złotych. Miasto Kielce zachowało symboliczny 1% akcji jako pakiet kontrolny.
---- 
-
 
 ### Stan na 12.03.2025. Wygenerowane za pomocą różnych modeli AI.
 ---

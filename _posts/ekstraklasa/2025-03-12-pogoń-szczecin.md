@@ -72,10 +72,9 @@ Nowy właściciel przejął klub wraz z koniecznością spłaty zadłużenia prz
 
 Aktualna struktura własnościowa Pogoni Szczecin przedstawia się następująco:
 
-| Akcjonariusz                         | Udział procentowy |
-|--------------------------------------|-------------------|
-| United Sports Investments Limited 🇬🇧 | 85%               |
-| Pozostali mniejsi udziałowcy         | ok. 15%           |
+
+United Sports Investments Limited (Wielka Brytania)  - 85%           
+Pozostali mniejsi udziałowcy          - ok. 15% 
 
 Obecnie klub znajduje się w okresie transformacji organizacyjnej i finansowej, a nowy właściciel deklaruje ambitne cele sportowe oraz stabilizację finansową klubu\[[2]\].
 
