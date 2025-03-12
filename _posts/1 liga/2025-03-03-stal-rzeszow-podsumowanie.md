@@ -7,6 +7,7 @@ tags:
     - podkarpackie
     - podsumowanie
     - rzeszów
+    - spółka akcyjna
 
 categories:
     - 1 liga
