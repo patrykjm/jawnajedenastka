@@ -10,7 +10,7 @@ tags:
     - szczecin
 
 categories:
-    - ekstraklasa
+    - ekstraklasa - analizy
 
 ---
 

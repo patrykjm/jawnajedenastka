@@ -9,7 +9,7 @@ tags:
     - spółka akcyjna
 
 categories:
-    - ekstraklasa
+    - ekstraklasa - analizy
 
 ---
 [1]: https://piast.gliwice.pl/2012/11/15/piast-s-a-ma-nowego-udzialowca/

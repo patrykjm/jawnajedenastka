@@ -9,7 +9,7 @@ tags:
     - spółka akcyjna
 
 categories:
-    - ekstraklasa
+    - ekstraklasa - analizy
 
 ---
 [1]: https://www.goal.pl/dzialacze-pilkarscy/piotr-rutkowski/
