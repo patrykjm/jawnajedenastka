@@ -60,7 +60,7 @@ W strukturze właścicielskiej klubu znajduje się również Bogusław Kulesza, 
 
 ## Organy zarządzające i nadzorcze
 
-Zarząd klubu reprezentowany jest przez prezesa Wojciecha Jacka Pertkiewicza, który objął tę funkcję 1 lutego 2022 roku\[[4]\]\[[8]\]. Zastąpił on na tym stanowisku Agnieszkę Syczewską, która pełniła funkcję prezesa od 15 lipca 2021 roku, po rezygnacji Cezarego Kuleszy ubiegającego się o stanowisko prezesa PZPN\[[4]\].
+Zarząd klubu reprezentowany jest przez prezesa Zbigniewa Ziemowita Deptułę.
 
 Rada Nadzorcza klubu składa się z kilkunastu osób. Oprócz wspomnianego już Wojciecha Strzałkowskiego, w jej skład wchodzą: Wojciech Kuryłek, Piotr Laskowski, Wojciech Wasilewski, Dariusz Kowalczyk, Wiesław Wołoszyn, Jarosław Łukaszewicz, Artur Jarosław Laskowski, Jakub Adrian Rudnicki, Robert Skrzypkowski oraz Piotr Grycuk\[[2]\].
 
@@ -73,6 +73,7 @@ Jagiellonia Białystok jest aktualnym mistrzem Polski (sezon 2023/2024), co prze
 W wywiadzie udzielonym "Faktowi" w maju 2024 roku, większościowy udziałowiec Wojciech Strzałkowski wyraził ambitne plany dotyczące przyszłości klubu: "Chcemy, żeby Jagiellonia była polskim Villarreal", nawiązując do hiszpańskiego klubu z niewielkiego miasta, który osiąga sukcesy na arenie krajowej i europejskiej\[[9]\].
 
 Jagiellonia Białystok występuje obecnie w Lidze Konferencji Europy, gdzie po pierwszej kolejce fazy ligowej zwiększyła swoje szanse na awans do fazy pucharowej o 23 procent\[[10]\]. Według platformy Football Meets Data, szanse białostockiego klubu na grę wiosną wynoszą 93 procent, co daje mu 10. miejsce w rankingu i potencjalne rozstawienie w fazie play-off\[[10]\].
+Edit: Obecnie (14.03.2025) Jagiellonia jest w ćwierćfinale Ligi Konferencji Europy, w którym zmierzy się z Betisem Sevilla.
 
 ## Podsumowanie
 
