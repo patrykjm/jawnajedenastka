@@ -10,7 +10,8 @@ tags:
     - kraków
 
 categories:
-    - ekstraklasa - analizy
+    - ekstraklasa
+    - analizy
 
 ---
 

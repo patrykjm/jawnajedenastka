@@ -8,7 +8,8 @@ tags:
     - spółka akcyjna
 
 categories:
-    - ekstraklasa - analizy
+    - ekstraklasa
+    - analizy
 
 ---
 
@@ -35,9 +36,6 @@ categories:
 
 
 ---
----
-Oczywiście, oto poprawiona wersja tekstu z zamienionymi [1], [2] na \[[1]\]:
-
 ---
 
 # Struktura Właścicielska Klubu Stal Mielec

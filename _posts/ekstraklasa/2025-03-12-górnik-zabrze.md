@@ -9,7 +9,8 @@ tags:
     - spółka akcyjna
 
 categories:
-    - ekstraklasa - analizy
+    - ekstraklasa
+    - analizy
 
 ---
 

@@ -9,7 +9,8 @@ tags:
     - spółka akcyjna
 
 categories:
-    - ekstraklasa - analizy
+    - ekstraklasa
+    - analizy
 
 ---
 [1]: https://www.zaglebie.com/Akcjonariusze  

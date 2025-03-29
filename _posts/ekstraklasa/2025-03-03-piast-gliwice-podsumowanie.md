@@ -9,7 +9,8 @@ tags:
     - spółka akcyjna
 
 categories:
-    - ekstraklasa - podsumowania
+    - ekstraklasa
+    - podsumowania
 ---
 
 [1]: https://piast-gliwice.eu/klub/struktura-organizacyjna

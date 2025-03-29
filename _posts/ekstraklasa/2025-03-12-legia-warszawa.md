@@ -10,7 +10,8 @@ tags:
     - warszawa
 
 categories:
-    - ekstraklasa - analizy
+    - ekstraklasa
+    - analizy
 
 ---
 
