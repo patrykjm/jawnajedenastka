@@ -9,6 +9,7 @@ tags:
     - spółka akcyjna
 categories:
     - 1 liga
+    - podsumowania
 
 ---
 [1]: https://www.sklep.chrobry-glogow.pl/pl/i/Kontakt-i-dane-Chrobry-Glogow-S.A./9

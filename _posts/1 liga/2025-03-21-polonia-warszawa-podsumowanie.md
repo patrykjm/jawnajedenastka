@@ -11,6 +11,7 @@ tags:
 
 categories:
     - 1 liga
+    - podsumowania
 
 
 ---

@@ -11,6 +11,7 @@ tags:
 
 categories:
     - 1 liga
+    - analizy
 
 ---
 [1]: https://krs-pobierz.pl/stal-rzeszow-spolka-akcyjna-i286123

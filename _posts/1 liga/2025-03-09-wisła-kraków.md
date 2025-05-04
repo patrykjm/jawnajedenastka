@@ -10,6 +10,7 @@ tags:
     - kraków
 categories:
     - 1 liga
+    - analizy
 
 ---
 [1]: https://przegladsportowy.onet.pl/ofsajd/wisla-krakow-kim-sa-nowi-wlasciciele-jazdzynski-blaszczykowski-krolewski-or-pko/4x718nl

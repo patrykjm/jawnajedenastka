@@ -11,6 +11,7 @@ tags:
 
 categories:
     - 1 liga
+    - podsumowania
 ---
 
 [1]: https://stalrzeszow.pl/wp-content/uploads/2024/04/Sprawozdanie-zarzadu-za-okres-01.07.2022-30.06.2023.pdf

@@ -10,6 +10,7 @@ tags:
     - kraków
 categories:
     - 1 liga
+    - podsumowania
 
 ---
 [2]: https://przegladsportowy.onet.pl/pilka-nozna/1-liga/zmiany-w-wisle-krakow-jakub-blaszczykowski-odsprzedal-udzialy/j9mec72

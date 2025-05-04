@@ -11,6 +11,7 @@ tags:
 
 categories:
     - 1 liga
+    - analizy
 
 ---
 [1]: https://transfery.info/aktualnosci/wlasciciel-polonii-warszawa-moim-marzeniem-jest-silny-klub-na-skale-europy/230994
